@@ -1,0 +1,12 @@
+20001,Aiman Hakim,0123456789,2024-07-06,car,Event support,35.0
+20002,Nurul Izzah,0134567890,2024-07-06,van,Faculty trip,150.0
+20003,Daniel Lee,0145678901,2024-07-06,bus,Site visit,80.0
+20004,Aisyah Zainal,0156789012,2024-07-06,car,Lab transport,60.0
+20005,Farid Iskandar,0167890123,2024-07-06,van,Outreach program,110.0
+20006,Siti Aisyah,0178901234,2024-07-06,bus,Student exchange,130.0
+20007,Ahmad Fauzan,0189012345,2024-07-06,car,Logistics errand,45.0
+20008,Liyana Bakar,0190123456,2024-07-06,van,Workshop support,90.0
+20009,Chong Wei,0111234567,2024-07-06,bus,Graduation ceremony,70.0
+20010,Zarina Kassim,0122345678,2024-07-06,car,Admin meeting,40.0
+20011,Fikrie Jalil,0198786540,2025-06-08,van,Study trip,25.0
+20012,Amirul Husni,0198231798,2025-06-25,van,Lawatan,12.0

@@ -1,0 +1,45 @@
+
+Applicant ID: 20001
+Applicant Name: Aiman Hakim
+Applicant Contact Number: 0123456789
+Application Date: 2024-07-06
+Vehicle Needed: car
+Reason of Usage: Event support
+Distance in KM: 35.0
+
+
+Applicant ID: 20003
+Applicant Name: Daniel Lee
+Applicant Contact Number: 0145678901
+Application Date: 2024-07-06
+Vehicle Needed: bus
+Reason of Usage: Site visit
+Distance in KM: 80.0
+
+
+Applicant ID: 20005
+Applicant Name: Farid Iskandar
+Applicant Contact Number: 0167890123
+Application Date: 2024-07-06
+Vehicle Needed: van
+Reason of Usage: Outreach program
+Distance in KM: 110.0
+
+
+Applicant ID: 20007
+Applicant Name: Ahmad Fauzan
+Applicant Contact Number: 0189012345
+Application Date: 2024-07-06
+Vehicle Needed: car
+Reason of Usage: Logistics errand
+Distance in KM: 45.0
+
+
+Applicant ID: 20009
+Applicant Name: Chong Wei
+Applicant Contact Number: 0111234567
+Application Date: 2024-07-06
+Vehicle Needed: bus
+Reason of Usage: Graduation ceremony
+Distance in KM: 70.0
+
