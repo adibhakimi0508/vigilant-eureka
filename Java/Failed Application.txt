@@ -1,0 +1,45 @@
+
+Applicant ID: 20002
+Applicant Name: Nurul Izzah
+Applicant Contact Number: 0134567890
+Application Date: 2024-07-06
+Vehicle Needed: van
+Reason of Usage: Faculty trip
+Distance in KM: 150.0
+
+
+Applicant ID: 20004
+Applicant Name: Aisyah Zainal
+Applicant Contact Number: 0156789012
+Application Date: 2024-07-06
+Vehicle Needed: car
+Reason of Usage: Lab transport
+Distance in KM: 60.0
+
+
+Applicant ID: 20006
+Applicant Name: Siti Aisyah
+Applicant Contact Number: 0178901234
+Application Date: 2024-07-06
+Vehicle Needed: bus
+Reason of Usage: Student exchange
+Distance in KM: 130.0
+
+
+Applicant ID: 20008
+Applicant Name: Liyana Bakar
+Applicant Contact Number: 0190123456
+Application Date: 2024-07-06
+Vehicle Needed: van
+Reason of Usage: Workshop support
+Distance in KM: 90.0
+
+
+Applicant ID: 20010
+Applicant Name: Zarina Kassim
+Applicant Contact Number: 0122345678
+Application Date: 2024-07-06
+Vehicle Needed: car
+Reason of Usage: Admin meeting
+Distance in KM: 40.0
+
